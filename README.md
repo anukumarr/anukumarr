@@ -1,10 +1,16 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Anu%20Kumar%20Sharma&fontSize=40&fontColor=ffffff)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Anu%20Kumar%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-# Hi 👋, I'm Anu Kumar Sharma
+<h1 align="center">Hi 👋, I'm Anu Kumar Sharma</h1>
 
-## 💻 Full Stack Developer | MCA Student
+<h3 align="center">💻 Full Stack Developer | MCA Student | Java & Next.js Enthusiast</h3>
 
-I am an MCA student passionate about Full Stack Web Development. I enjoy building responsive websites and learning new technologies.
+<p align="center">
+  <a href="https://github.com/anukumarr">
+    <img src="https://komarev.com/ghpvc/?username=anukumarr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
@@ -12,13 +18,14 @@ I am an MCA student passionate about Full Stack Web Development. I enjoy buildin
 
 - 🎓 MCA Student at Chandigarh University
 - 🌱 Currently learning Full Stack Development
-- 💻 Interested in Web Development
-- 📚 Learning React, Next.js, Node.js and MySQL
+- 💻 Passionate about Web Development
+- ⚛️ Learning React, Next.js, Node.js & MySQL
 - 🎯 Goal: Become a Software Engineer
+- 📫 Email: **anukumar07828@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
@@ -30,18 +37,17 @@ I am an MCA student passionate about Full Stack Web Development. I enjoy buildin
 
 ### Frontend
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Bootstrap
+- Tailwind CSS
 - React.js
 - Next.js
-- Tailwind CSS
 
 ### Backend
 
 - Node.js
 - Express.js
-- Java
 - Spring Boot
 
 ### Database
@@ -60,40 +66,40 @@ I am an MCA student passionate about Full Stack Web Development. I enjoy buildin
 
 ---
 
-## 📂 Projects
+# 🚀 Projects
 
-### 🛒 FreshMart
+## 🛒 FreshMart
 
-A modern grocery store web application.
+Modern Grocery Store Web Application
 
-Features
+### Features
 
-- User Login
-- Shopping Cart
+- User Authentication
 - Product Listing
-- Orders
+- Shopping Cart
 - Responsive UI
+- Order Management
 
-Tech Stack
+### Tech Stack
 
 - Next.js
 - React
 - Tailwind CSS
-- Prisma
+- Prisma ORM
 - MySQL
 
 ---
 
-### 📚 Online Book Store
+## 📚 Online Book Store
 
 - PHP
-- MySQL
 - HTML
 - CSS
+- MySQL
 
 ---
 
-### ❤️ Health Management System
+## ❤️ Health Management System
 
 - Java
 - Swing
@@ -101,37 +107,64 @@ Tech Stack
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anukumarr&show_icons=true&theme=tokyonight)
+<p align="center">
 
----
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anukumarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-## 🔥 Streak Stats
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukumarr&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anukumarr&theme=tokyonight)
-
----
-
-## 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anukumarr&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
+# 🔥 GitHub Streak
 
+<p align="center">
 
+<img src="https://streak-stats.demolab.com?user=anukumarr&theme=tokyonight&hide_border=true"/>
 
-## 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anukumarr)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anu-kumar-sharma-b03a63253/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](anukumar07828@gmail.com)
-
-
+</p>
 
 ---
-![](https://komarev.com/ghpvc/?username=anukumarr&color=blue)
-⭐ Thanks for visiting my profile!
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/anukumarr">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anukumar07828@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anukumarr&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">
+Keep Learning • Keep Building • Keep Growing 🚀
+</p>
+
+<p align="center">
+Made with ❤️ by Anu Kumar Sharma
+</p>
