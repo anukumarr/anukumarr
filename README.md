@@ -1,4 +1,6 @@
-https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Anu%20Kumar%20Sharma&fontSize=40&fontColor=ffffff
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Anu%20Kumar%20Sharma&fontSize=40&fontColor=ffffff)
+
+# Hi 👋, I'm Anu Kumar Sharma
 # Hi 👋, I'm Anu Kumar Sharma
 
 ## 💻 Full Stack Developer | MCA Student
